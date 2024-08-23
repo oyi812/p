@@ -1,2 +1,2 @@
 # p
-Patterns for common scenarios
+Pattern implementations for common scenarios in Go
